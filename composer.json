@@ -1,0 +1,19 @@
+{
+    "name": "rephole/laravel-view-control",
+    "description": "",
+    "authors": [
+        {
+            "name": "Necati Özal",
+            "email": "nctozal@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "5.2.*",
+        "wa72/htmlpagedom": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rephole\\ViewControl\\": "src/ViewControl"
+        }
+    }
+}
