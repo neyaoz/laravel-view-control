@@ -1,6 +1,7 @@
 {
     "name": "rephole/laravel-view-control",
-    "description": "",
+    "description": "This package provides dom parser for blade views.",
+    "license": "MIT",
     "authors": [
         {
             "name": "Necati Özal",
