@@ -1,5 +1,16 @@
 ## The Laravel View Control Package
 
+...
+
+### Requirements
+
+-   PHP 5.6+
+-   Laravel 5.2+
+-   Wa72\HtmlPageDom
+-   Symfony\Components\DomCrawler
+-   Symfony\Components\CssSelector
+
+
 ### Install
 
 Require this package with composer using the following command:
